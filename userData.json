@@ -1,0 +1,25 @@
+{
+    "userData": {
+        "UserID": 1,
+        "userName": "VidiN",
+        "userFirstName": "Vidi",
+        "userLastName": "Nararia",
+        "password": "pbb12",
+
+        "timeStamps": {
+            "datajoined": "08-November-2020",
+            "dataUpdated": "08-November-2020"
+        }
+    },
+
+    "userMyNote": [
+        {
+            "Note": 1,
+            "NoteName": "Catatan Kelas"
+        },
+        {
+            "Note": 2,
+            "NoteName": "Catatan Pembuatan Skenario"
+        }
+    ]
+}

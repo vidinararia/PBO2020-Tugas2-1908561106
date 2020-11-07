@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UserDataWithNote>
+    <UserData>
+        <UserId>1</UserId>
+        <UserName>VidiN</UserName>
+        <FirstName>Vidi</FirstName>
+        <LastName>Nararia</LastName>
+        <Password>pbb12</Password>
+
+        <TimeStampts>
+            <DateJoined>08-November-2020</DateJoined>
+            <DateUpdated>08-November-2020</DateUpdated>
+        </TimeStampts>
+
+    </UserData>
+
+    <Note>
+        <Note>
+            <noteId>1</noteId>
+            <noteName>Catatan Kelas</noteName>
+        </Note>
+        <Note>
+            <noteId>2</noteId>
+            <noteName>catatan Pembuatan Skenario</noteName>
+        </Note>
+    </Note>
+
+</UserDataWithNote>
